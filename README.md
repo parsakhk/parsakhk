@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsakhk&label=Profile%20views&color=0e75b6&style=flat" alt="parsakhk" /> </p>
 
-- 🔭 I’m currently working on [Resuma website](https://github.com/parsakhk/resuMa)
+- 🔭 I’m currently working on [Neoner](https://github.com/parsakhk/resuMa)
 
 - 🌱 I’m currently learning **React, Python**
 
